@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The possibility of God's forsaking a people, that have been visibly near &amp; dear to him together with the misery of a people thus forsaken, set forth in a sermon preached at Weathersfield, Nov. 21. 1678. Being a day of fast and humiliation. / By Mr. Joseph Rowlandson ...</title>
+            <author>Rowlandson, Joseph, 1631?-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09905</idno>
+            <idno type="OCLC"> 124064263</idno>
+            <idno type="STC">Wing R2091</idno>
+            <idno type="STC">ESTC W4600</idno>
+            <idno type="EEBO-CITATION">124064263</idno>
+            <idno type="OCLC">ocn 124064263</idno>
+            <idno type="VID">192320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192320)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2915:8b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The possibility of God's forsaking a people, that have been visibly near &amp; dear to him together with the misery of a people thus forsaken, set forth in a sermon preached at Weathersfield, Nov. 21. 1678. Being a day of fast and humiliation. / By Mr. Joseph Rowlandson ...</title>
+                  <author>Rowlandson, Joseph, 1631?-1678.</author>
+               </titleStmt>
+               <extent>[6], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Ratcliffe, &amp; John Griffin.,</publisher>
+                  <pubPlace>Boston in New-England :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: B.W.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+                  <note>With: The soveraignty &amp; goodness of God. Cambridge, : Printed by Samuel Green, 1682.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Jeremiah XXIII, 33 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, American --  17th century.</term>
+               <term>Congregational churches --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192320:1"/>
+            <pb facs="tcp:192320:1" rendition="simple:additions"/>
+            <p>THE Poſſibility of Gods For<g ref="char:EOLhyphen"/>ſaking a people, That have been viſibly near &amp; dear to him TOGETHER, <hi>With the Miſery of a People thus forſaken,</hi> Set forth in a SERMON, Preached at <hi>Weathersfield,</hi> Nov. 21. 1678. Being a Day of FAST and HU<g ref="char:EOLhyphen"/>MILIATION.</p>
+            <p>By Mr. <hi>Joſeph Rowlandſon</hi> Paſtor of the Church of Chriſt there. Being alſo his laſt SERMON.</p>
+            <q>
+               <bibl>
+                  <hi>2 Chron. 15.2.</hi>
+               </bibl>
+               <p>The Lord is with you, while ye be with him, and if ye ſeek him, he will be found of you: but if ye forſake him, he will forſake you.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Hoſ. 9.12.</hi>
+               </bibl>
+               <p>Wo alſo to them, when I depart from them.</p>
+            </q>
+            <p>BOSTON in <hi>NEW-ENGLAND</hi> Printed for <hi>John Ratcliffe, &amp; John Griffin.</hi> 1682.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:192320:2" rendition="simple:additions"/>
+            <pb facs="tcp:192320:2" rendition="simple:additions"/>
+            <head>To the Courteous READER, (eſpecially the Inhabitants of the Town of <hi>Weathersfield,</hi> and <hi>Lancaſter,</hi> in <hi>New-England.</hi>
+            </head>
+            <p>Gods forſaking of ſuch as he hath been near to, is a thing of ſuch weight, and ſolemnity, and hath ſuch bitter effects, that it is a meet Subject, (eſpe<g ref="char:EOLhyphen"/>cially in a dark and mourning day) for Miniſters to ſpeak to, and for People to hear of: that the one may warn of the danger, and the other avoid the judgement. As Gods preſence is the greateſt glory to a People on this ſide Heaven, ſo his abſence is the greateſt miſery on this ſide hell; this therefore muſt needs be a concerning point, to ſuch as will concern themſelves in their concernments. The enſuing <hi>Sermon</hi> will appear a ſolemn word, if duely conſide<g ref="char:EOLhyphen"/>red: the ſubject matter is very ſolemn and weighty, (Treating of Gods being with, or forſaking a peo<g ref="char:EOLhyphen"/>ple) the time when it was delivered was a ſolemn time, (a day of <hi>FAST</hi> throughout the Colonies) the Reverend <hi>Author</hi> that Compoſed, and Preached it; was one ſolemn and ſerious above many others, and that which adds one great circumſtance to its ſolem<g ref="char:EOLhyphen"/>nity, is, in that it was the laſt word he ſpake to the
+<pb facs="tcp:192320:3" rendition="simple:additions"/>World, being but about two dayes before he left it. As it is ſolemn, ſo 'tis ſeaſonable, and pertinent. It is a time wherein we have given God juſt cauſe to forſake us. a time wherein God is threatning to for<g ref="char:EOLhyphen"/>ſake us. A time wherein God hath in ſome mea<g ref="char:EOLhyphen"/>ſure forſaken us already, and what can be more ſea<g ref="char:EOLhyphen"/>ſonable, then to ſhew the evils that befall a forſaken People, that we may yet be awakened, and return, that the Lord do not forſake us utterly.</p>
+            <p>As for the <hi>Reverend Author,</hi> there needs no<g ref="char:EOLhyphen"/>thing to be ſaid in his commendation, he was known amongſt the Churches in the Wilderneſs, and known to be a workman that needed not to be aſhamed. That his Name (which was ſometimes precious amongſt thoſe that knew him) may not be forgot, and that being dead, he may yet ſpeak to a land that have in ſome meaſure forſook their God, and are in danger of being forſaken, is the ground work of the pub<g ref="char:EOLhyphen"/>liſhing this ſmall part of his labours. It is com<g ref="char:EOLhyphen"/>mended eſpecially to the peruſal of the Inhabitants of <hi>Lancaſter</hi> and <hi>Weathersfield:</hi> He was a Man well known to you, the one had his Life, and the other his death; and both his loſs, you cannot eaſily for<g ref="char:EOLhyphen"/>get his name, and 'tis deſired that you may not forget the labour and travel, he hath had amongſt you; the word which he Preached to you was acceptable whilſt he was living, and it is preſumed it will be accepted with the like candor now he is dead. In<g ref="char:EOLhyphen"/>deed had it been intended, and fitted by himſelf for the Preſs, you might have expected, and found it more
+<pb facs="tcp:192320:3"/>large, and poliſhed; but as it is, it is thought fit, not to be loſt, and may be of great uſe, and benefit, to open to us the danger of forſaking God, to humble us for all our coolings, and declinings from God, to quicken us in our return to, and cloſe walking with God, and that it may attain this end, is the hearts deſire, and prayer of him, who abundantly wiſhes thy welfare, and proſperity in Chriſt Jeſus.</p>
+            <closer>
+               <signed>B. VV.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:192320:4"/>
+            <pb n="1" facs="tcp:192320:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Ieremiah 23.33.</hi>
+                  </bibl>
+                  <p>And when this People, or the Prophet, or a Prieſt, ſhall ask thee, ſaying, what is the burden of the Lord? thou ſhalt then ſay unto them, what bur<g ref="char:EOLhyphen"/>den? I will even forſake you; ſaith the Lord.</p>
+               </q>
+            </epigraph>
+            <p>IN the Words, there lies before us, <hi>(Firſt)</hi> A Queſtion, ſuppoſed, to be propounded, wherein there is two things: 1. The Queſtioniſts, this People, or a Prophet, or a Prieſt. 2. The Queſtion it ſelf, or the matter of it, <hi>What is the burden of the Lord? (Secondly,)</hi> There is an Anſwer, and a ſolemn Anſwer too, which is put into his mouth by the Lord, and which he is to return as the Lords Anſwer to the Queſtion? <hi>thou ſhalt then ſay unto them, what burden? I will even forſake you, ſaith the Lord.</hi>
+            </p>
+            <p>In which Anſwer there is three things.</p>
+            <list>
+               <item>1. An expreſſion of Indignation, <hi>What burden?</hi>
+               </item>
+               <pb n="2" facs="tcp:192320:5"/>
+               <item>2. An aſſertion by way of Anſwer to the que<g ref="char:EOLhyphen"/>ſtion, <hi>I will forſake you.</hi>
+               </item>
+               <item>3. A Seal of ratification, in the laſt words, <hi>Saith the Lord.</hi>
+               </item>
+            </list>
+            <p>God having before dealt with the Paſtors, that did deſtroy, and ſcatter the flock, as in the be<g ref="char:EOLhyphen"/>ginning of the Chapter, <hi>Wo be to the Paſtors that deſtroy and ſcatter the ſheep of my paſture,</hi> &amp; ver. 2 <hi>I will viſit upon you the evil of your doings, ſaith the Lord, and alſo with the falſe Prophets, that pro<g ref="char:EOLhyphen"/>pheſied lies in his Name,</hi> as ver. 9. <hi>My heart with<g ref="char:EOLhyphen"/>in me is broken becauſe of the Prophets,</hi> &amp; ver. 32. <hi>Behold I am againſt them, that propheſie falſe dreams, ſaith the Lord, and do tell them, and cauſe my people to err by their lies, and by their lightneſs:</hi> which ſort of Prophets went without their Com<g ref="char:EOLhyphen"/>miſſion, as <hi>ver.</hi> 21. <hi>I have not ſent theſe Prophets yet they ran.</hi> He proceeds from the head Ru<g ref="char:EOLhyphen"/>lers, to the people that were ſeduced by them: for by this means their hands were ſtrengthened in ſin, ſo as that they did not return from their wickedneſs, as <hi>ver</hi> 14. It was a uſual thing for the Prophets of the Lord, to begin their Ser<g ref="char:EOLhyphen"/>mons (the matter whereof was minatory, where<g ref="char:EOLhyphen"/>in the Lord threatned them with juſt judge<g ref="char:EOLhyphen"/>ments) with that Phraſe, <hi>the burden of the Lord,</hi> as will eaſily appear if you conſult, <hi>Iſai.</hi> 13.1. &amp; 15.1. &amp; 22.1. &amp; 30, 6. Now they do in the words of the Text, or are ſuppoſed in mockery to demand, what <hi>Burden</hi> he had from the Lord, for them.</p>
+            <p>
+               <pb n="3" facs="tcp:192320:5"/>
+For the opening of the words And: or moreover becauſe he here enters upon new matter: <hi>this People,</hi> or the prophane ſort of them, whom the falſe Prophets had ſecuced, to which he joyns the Prophet, and the Prieſt, in hit they were alike prophane, as <hi>ver.</hi> 11. <hi>for both Prophet and Prieſt are prophane, yea in my houſe,</hi> ſaith the Lord: and when Prophets are prophane there is wont to be a pack of them, as <hi>Jer.</hi> 5.31. <hi>The Prophets propheſies falſly, and the Prieſts bear rule by their means, and my people love to have it ſo:</hi> ſhall ask thee ſaying, <hi>viz.</hi> in a deriding way, not out of a holy end, or deſire, <hi>What is the burden of the Lora? or from the Lord?</hi> ſo were the Prophe<g ref="char:EOLhyphen"/>ſies ſtiled, that contained in them, <hi>Threatnings, Judgements, and Plagues,</hi> 2 King. 9.25. as if they had ſaid, <hi>what haſt thou further miſchief in thy head to declare? further Woes and Threatnings to pronounce? haſt thou nothing elſe to propheſie, but Miſchief and Calamity? What is the burden now?</hi> Thou ſhalt then ſay unto them, the Lord know what they would ſay to him, and tells him what he ſhould ſay, by way of reply, <hi>What burden?</hi> a retorting by way of holy indignation; ask ye indeed <hi>what burden?</hi> and that in a way of deri<g ref="char:EOLhyphen"/>ſion? are you of that ſtrain, and ſpirit? I will even forſake you ſaith the Lord: a burden hea<g ref="char:EOLhyphen"/>vy enough, and you are like to ſeel it ſo ere long, heavy enough to break your Backs, to break your Church, and your Common wealth, and to
+<pb n="4" facs="tcp:192320:6"/>ſink your haughty Spirits, when this Burden ſhall come upon you, in its force and weight.</p>
+            <p>Doct. <hi>That the Lord may even forſake a Peo<g ref="char:EOLhyphen"/>ple that have been near to him, and he hath been near to, though for the Lord thus to do, is as fearful and hideous a judgement as can be inflicted on any People.</hi>
+            </p>
+            <p>The Doctrine is double, it hath two parts:</p>
+            <p>
+               <hi>Firſt,</hi> That the Lord may do thus.</p>
+            <p>
+               <hi>Secondly,</hi> When he doth, it is a very ſad and heavy burden. It may be proſecuted as two di<g ref="char:EOLhyphen"/>ſtinct points.</p>
+            <list>
+               <item>1.<note place="margin">P. 1.</note> God may forſake a People that hath been near to him, and that he hath been near to. This may be ſpoken to in this order.</item>
+               <item>1. What is meant by Gods forſaking a People.</item>
+               <item>2. How may it appear that God may forſake, even ſuch a People as the point ſpeaks of?</item>
+               <item>3. The Reaſons.</item>
+               <item>4. The uſe.</item>
+            </list>
+            <p n="1">1.<milestone type="tcpmilestone" unit="unspecified" n="I"/> What doth Gods forſaking mean? what is intended thereby?</p>
+            <p>
+               <hi>Sol.</hi> It means Gods with drawing himſelf, as the Prophe: <hi>Hoſea</hi> phraiſes it, <hi>Hoſ.</hi> 5.6. <hi>They ſhall go with their Flocks and their Herds to ſeek the Lord, but ſhall not find him, he hath withdrawn himſelf from them.</hi> They ſhall ſeek him, and not find him, and there is a good reaſon, he hath
+<pb n="5" facs="tcp:192320:6" rendition="simple:additions"/>withdrawn himſelf, he is gone, in reſpect of his gracious preſence. We muſt here diſtinguiſh betwixt Gods general preſence, and his precious preſence. In reſpect of his general preſence, he is not far from any one of us, <hi>for in him we live, and move, and have our being, Act.</hi> 17.27, 28. We have not only our beginning from, but our being in him. As the beam hath its being in the Sun. Of this general preſence of God, we read, <hi>Pſal.</hi> 139.7. There is no flying from it. <hi>Whither ſhall I go from thy Spirit, or whither ſhall I ſlie from thy preſence?</hi> In this ſenſe God is every where, as it is <hi>ver.</hi> 8, &amp; 9. <hi>If I aſcend up into Heaven thou art there: if I make my bed in Hell, behold thou art there.</hi> He fills Heaven and Earth, and there is no hiding from him, <hi>Jer.</hi> 23.24. <hi>Can any hide himſelf in ſecret places, that I ſhall not ſee him,? ſaith the Lord do not I fill Heaven and Earth? ſaith the Lord.</hi> He hath Heaven for his Throne, and the Earth for his Footſtool, as it is, <hi>Iſai.</hi> 66.1. This general preſence of God, if believingly apprehended, and ſtrongly be<g ref="char:EOLhyphen"/>lieved, might be of great uſe.</p>
+            <p>But it is not this general preſence that is meant: but his eſpecial preſence, his favourable and gra<g ref="char:EOLhyphen"/>cious preſence, the removing whereof, is that that is intended, by the forſaking that the Text and Point ſpeaks of. God is ſaid to forſake a People two waves.</p>
+            <list>
+               <item>1. As to Affection.</item>
+               <item>2. As to Action.</item>
+            </list>
+            <p n="1">
+               <pb n="6" facs="tcp:192320:7"/>
+1. As to Affection, when he diſcontinues his love to them, when he takes away his love from a people, then he takes his leave of a people. <hi>My mind is not toward this people,</hi> Jer. 15.1. a ve<g ref="char:EOLhyphen"/>ry heavy Judgement, and ſad removal. Be in<g ref="char:EOLhyphen"/>ſtructed O <hi>Jeruſalem, leaſt my Soul depart from thee.</hi>
+            </p>
+            <p n="2">2. As to Action, when God takes away the ſigns of his preſence.</p>
+            <p n="1">1. When he takes away merciful and graci<g ref="char:EOLhyphen"/>ous providences, when he carries not towards them as he was wont to do: but vexes them with all manner of adverſity, <hi>Deut.</hi> 31.17. <hi>I will forſake them, and many evils and troubles ſhall befal them:</hi> when he ceaſes to protect them from e<g ref="char:EOLhyphen"/>vils, and enemies, as in times paſt, and provides not for them, as he was wont to do. 2. When he takes away his Ordinances, and bereaves a peo<g ref="char:EOLhyphen"/>ple of the glorious things of his houſe; or take away his ſpirit from accompanying them, where<g ref="char:EOLhyphen"/>by the glory ceaſes, and the ordinances are ren<g ref="char:EOLhyphen"/>dered in effectual for the ſaving good of a peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p n="2">2.<milestone type="tcpmilestone" unit="unspecified" n="II"/> How may it appear the God may forſake finch a People?</p>
+            <p>It may appear by what God hath threatned. What God hath threatned, to ſuch as the point ſpeaks of, may be inflicted on them: but God hath threatned ſuch judgements to ſuch a peo<g ref="char:EOLhyphen"/>ple. My anger ſhall be kindled againſt them,
+<pb n="7" facs="tcp:192320:7"/>and I will forſake them, as near as they are to me, and as dear as they have been to to me, <hi>Deut,</hi> 31.17. Many ſuch threatnings are found in the Scri<g ref="char:EOLhyphen"/>pture againſt <hi>Iſrael,</hi> who are ſtiled a people near unto him.</p>
+            <p>In that ſuch as have been near to God, and he near to them, have complained of their being forſaken by God. Thou haſt forſaken us, is one of the bitter moans, on record, that the Church of God did often make unto him</p>
+            <p>What God hath inflicted on ſuch, may be in<g ref="char:EOLhyphen"/>flicted on ſuch again; what God hath done to ſome, he may do to others, in the ſame ſtate, and relation: for he is unchangeable. Thoſe that were once the only peculiar people of God, near to God, and had God near to them, yet what is is their condition at this day? A forſaken condi<g ref="char:EOLhyphen"/>tion, is the condition, of the Off ſpring of <hi>Abra<g ref="char:EOLhyphen"/>haem</hi> Gods Friend, a ſeed whom he had choſen, and hath been ſo, for above ſixteen hundred years. God hath been angry with them, and forſaken them, as they were foretold long ago. How is it with the Churches of <hi>Aſia,</hi> that were once famous golden Candleſticks? that had E<g ref="char:EOLhyphen"/>piſtles written to them. Are they not in a for<g ref="char:EOLhyphen"/>ſaken condition? not the face of a Church to be found amongſt them.</p>
+            <p>In that they may do that, which may deſerve a forſaking, therefore they may do that which may actually procure it. They may do that
+<pb n="8" facs="tcp:192320:8" rendition="simple:additions"/>which may deſerve a forſaking, they may through the corruption and unbelief of their hearts for<g ref="char:EOLhyphen"/>ſake God, and God may in juſt judgement reta<g ref="char:EOLhyphen"/>liate, and thereupon forſake them. This is ſpo<g ref="char:EOLhyphen"/>ken to in the forequoted place, <hi>Deut.</hi> 31.16, 17. <hi>They will forſake me, and break my Covenant which I have made with them: then my anger ſhall be kindled againſt them in that day, and I will for<g ref="char:EOLhyphen"/>fake them, and hide my face from them.</hi> So again, 2 Chron. 15.2. <hi>But if you forſake him he will for<g ref="char:EOLhyphen"/>ſake you;</hi> the firſt is ſuppoſed, <hi>if you forſake him,</hi> the latter is impoſed, <hi>he will forſake you:</hi>
+            </p>
+            <p>But why doth the Lord forſake ſuch a People?<milestone type="tcpmilestone" unit="unspecified" n="III"/> The Reaſons:</p>
+            <p n="1">1. To ſhew that he hath no need of any, he hath forſaken many, and may forſake many more, to ſhew that he hath no need of any. God would have all the world to take notice, (that though all men have need of him, yet) he hath no need of any man.</p>
+            <p n="2">2. To teſtifie his Sanctity, and ſeverity againſt ſin. He will not ſpare them, that have been near him, if they will not ſpare their ſin for him. He is a holy God, and if they will have their ſins, and their luſts, and their wayes, and their lovers, he will vindicate his holineſs, by inflicting this judgement on them.</p>
+            <p n="3">3. To be a warning to all that enjoy his gra<g ref="char:EOLhyphen"/>cious preſence. That they ſee that they make much of it, and that they take heed that they
+<pb n="9" facs="tcp:192320:8" rendition="simple:additions"/>do not ſin againſt him, and forſake him, and pro<g ref="char:EOLhyphen"/>voke him to forſake them alſo.</p>
+            <p>
+               <hi>Caut.</hi> The point is to be underſtood of a peo<g ref="char:EOLhyphen"/>ple that are viſibly and externally near and dear to him, and theſe may be totally and finally for<g ref="char:EOLhyphen"/>ſaken of God: and yet here it muſt be noted, that God may exerciſe a deal of patience, and forbearance toward ſuch as he is about to forſake, he did ſo with the old world, he did ſo with the <hi>Iſraelites</hi> of old, he did ſo with the ſeven Chur<g ref="char:EOLhyphen"/>ches of <hi>Aſia:</hi> he is not wont ſuddenly, and at once to forſake a people, that have been near and dear to him; but he is wont to give them warn<g ref="char:EOLhyphen"/>ing, and in patience to bear a while with their frowardneſs, and wait to ſee if there be any re<g ref="char:EOLhyphen"/>turning to him, before he doth inflict this heavy and ſharp judgement.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> It ſerves to admoniſh us,<milestone type="tcpmilestone" unit="unspecified" n="IV"/> not to bear our ſelves too high, upon the account of priviledges. It is a great priviledge to have the Lord near us, and to be near unto him: and ſome lean upon this though they abide in their ſin, <hi>Micah</hi> 3.10, 11. <hi>They build up Sion with blood, and Jeruſalem with iniquity, yet will they lean upon the Lord, and ſay, is not the Lord amongſt us?</hi> But if our de<g ref="char:EOLhyphen"/>portment be not according to our priviledges, if we do not carry it thereafter, by becoming an humble, fruitful, and holy people; the Lord will bring forth this heavy burden againſt us, we ſhall be rejected, and forſaken of the Lord, what<g ref="char:EOLhyphen"/>ever
+<pb n="10" facs="tcp:192320:9" rendition="simple:additions"/>our external priviledges be.</p>
+            <p>But the ſecond part of the Doctrine;<note place="margin">P. 2.</note> or the ſecond Doctrine may be now ſpoken to, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That it is the heavieſt burden, or the ſoreſt of Judgements for the Lord to forſake a people.</hi>
+            </p>
+            <p>There may be two things ſpoken to in the ma<g ref="char:EOLhyphen"/>nagement of this truth. 1. Arguments to e<g ref="char:EOLhyphen"/>vidence it. 2. The Uſes of it.</p>
+            <p n="1">1. If God hath threatned it as a very ſore judgement, then ſure it is ſo. Now when God hath been angry with a people, he hath manifeſt<g ref="char:EOLhyphen"/>ed the ſame by menacing them with his forſaking them: when he hath been deſigned to do them a deep diſpſeaſure, upon the account of ſome high provocation he is wont to threaten them not by taking away this, or that outward comfort from them; but by taking away himſelf from them.</p>
+            <p>And that is a woe indeed, a woe with a witneſs, <hi>Hoſ.</hi> 9.12. Yea, woe alſo to them, when I depart from them: this is the wofulleſt day that ſuch a people are wont to meet with.</p>
+            <p n="2">2. Gods forſaking a People is a ſore judge<g ref="char:EOLhyphen"/>ment, in that it expoſes them to all judgements. Sin is a great evil in that it expoſes to all evil this is a great evil of puniſhment, in that it expoſes to all puniſhments. If God be gone, our guard is gone, and we are as a City, in the midſt of E<g ref="char:EOLhyphen"/>nemies, whoſe walls are broken down. Our ſtrength to make reſiſtance, that's Gone, for God
+<pb n="11" facs="tcp:192320:9" rendition="simple:additions"/>is our ſtrength, as a carcaſe without life, is a prey, to beaſts of prey; ſo are a people forſa<g ref="char:EOLhyphen"/>ken of their God, to all their devouring enemies, and to infernal, and curſed ſpirits: they are ex<g ref="char:EOLhyphen"/>poſed to miſchief, and the malice of all their ma<g ref="char:EOLhyphen"/>lignant enemies. When the Lord had forſaken <hi>Jeruſalem,</hi> the <hi>Romans</hi> quickly made a prey of it; when they were deſtitute of God, their habita<g ref="char:EOLhyphen"/>tion became deſolate. There is no Protection to a People, whom the Lord forſakes; but they are perplexed on every ſide.</p>
+            <p n="3">3. Becauſe the evils that are on ſuch, whom God hath forſaken, they are only evils. The Prophet <hi>Ezekiel</hi> ſometime hath the expreſſion, <hi>Ezek.</hi> 7.5. <hi>Thus ſaith the Lord God, an evil, an only evil behold is come.</hi> This is ſuch an evil, an only evil to a people. An evil whilſt God is preſent, may have much good in it, the Lord may ſancti<g ref="char:EOLhyphen"/>fie it for abundance of bleſſing: there is hopes of this whilſt the Lord continues amongſt them; but if he be gone, it is an only evil, and the evils that come upon them are ſuch, they have no<g ref="char:EOLhyphen"/>thing but evil in them.</p>
+            <p n="4">4. Becauſe no creature can then afford any help; for what can creatures do when God is departed, he makes the creatures uſeful and help<g ref="char:EOLhyphen"/>ful, but without him they can do us no good, ſtand us in no ſtead: they may ſay to thee as the King of <hi>Iſrael,</hi> ſaid to the Woman, that cried <hi>Help O King,</hi> He anſwered, <hi>If the Lord done
+<pb n="12" facs="tcp:192320:10" rendition="simple:additions"/>help, whence ſhall I help thee?</hi> all creatures may ſay if God be departed, <hi>we cannot help:</hi> Nay the very Devil cannot help if God be gone: when God departed from <hi>Saul,</hi> he ſought help from the Devil, 1 <hi>Sam.</hi> 28.15. <hi>Wherefore</hi> (ſaith the Devil) <hi>askeſt thou of me? ſeeing the Lord is de<g ref="char:EOLhyphen"/>parted from thee.</hi>
+            </p>
+            <p n="5">5. It appears to be a ſore judgement, by the an<g ref="char:EOLhyphen"/>guiſh and diſtreſs, that ſuch have been in, that have been ſenſible that God hath forſaken them. Sin hath flown in the face of ſuch, and terified them: Oh the bleſſed God is gone, and if he is gone, mercy is gone; and Oh for ſuch and ſuch ſins, that lie upon me! what ſhall I do? what a moan have Saints themſelves made in ſuch a caſe? as <hi>David,</hi> Pſal. 22.1, 2. <hi>My God, my God, Why haſt thou forſaken me? Why art thou ſo far from helping me? and from the words of my roaring? Oh my God, I cry in the day time, but thou heareſt not, and in the night ſeaſon, and am not ſilent.</hi> Oh how <hi>Saul</hi> roared out his diſtreſs! and that on this account eſpecially, that God was departed from him, not ſo much that the <hi>Philiſtines</hi> were upon him, had not God been gone, he could have dealt well enough with them; but here was the miſery, and the ſting of the miſery, <hi>God was de<g ref="char:EOLhyphen"/>parted from him.</hi>
+            </p>
+            <p n="6">6 It is a ſore puniſhment, in that it is a great part of the puniſhment of Hell. The eſſential parts of that puniſhment, is pain of loſs, and ſenſe,
+<pb n="13" facs="tcp:192320:10" rendition="simple:additions"/>and the ſormer ſome reckon the greater.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. How fooliſh are ſinners that do even bid God depart from them? as we read, <hi>Job</hi> 21.14. <hi>Therefore they ſay unto God depart from us, for we deſire not the knowledge of thy wayes.</hi> But do they know what they ſay? Oh ſinners is this your wiſh? if it be granted it will prove your woe for ever. Happily Gods preſence is now your trouble; but I tell you his abſence would be your torment.</p>
+            <p n="2">2. Se here what an evil it is to forſake God, is it a judgement of judgements to be forſaken of God? ſurely then it is the ſin of ſins to for<g ref="char:EOLhyphen"/>ſake him: the evil of puniſhment is in being left by God, and the evil of ſin is in leaving God. What, forſake God, who is our only good? God who made us, and poſſeſt us from our beginning, God that hath been the guid of our Youth, that hath been good to us, and fed us all our dayes? <hi>Jer.</hi> 2.19. <hi>Know therefore and ſee, that it is an evil thing and bitter, that thou haſt forſaken the Lord thy God.</hi> And there is an aggravation of it, <hi>ver.</hi> 17. <hi>Thou haſt forſaken the Lord thy God, When he led thee by the way.</hi> As a guid to direct thee, as a ſtaffe to ſupport thee, as a convoy to guard thee, as a Fathe to provide for thee, that thou haſt wanted nothing: well may it be ſaid, <hi>how evil and bitter a thing is it,</hi> that thou haſt forſaken the Lord? He adds in the 31. <hi>verſe. Oh Generation!</hi> Generation of what? of what you will; God
+<pb n="14" facs="tcp:192320:11" rendition="simple:additions"/>leaves a ſpace that you may write, what you pleaſe, generation of Vipers, or Monſters, or any thing rather then Generation of Gods peo<g ref="char:EOLhyphen"/>ple. See ye the word of the Lord behold your face in that Glaſs. So your cauſleſs apo<g ref="char:EOLhyphen"/>ſtaſies, have I been a wilderneſs unto Iſrael? Have you wanted any thing, Oh ye degenerating crooked, and wilful generation? God may ſay to ſuch ſinners, as <hi>Pharaoh</hi> to <hi>Hadad,</hi> when he would be gone, 1 <hi>King.</hi> 11.22. <hi>But what haſt thou lacked with me, that thou ſeekeſt to be gone?</hi> what haſt thou lacked ſinner, that thou ſeekeſt to be gone from the Lord? The ſinner muſt anſwer with him, nothing howbeit let me go in any wiſe. He came to him in his diſtreſs, and when his turn was anſwered, away he packs. They forſake becauſe they will forſake.</p>
+            <p n="3">3. Wonder not that Gods Saints have been ſo ſolicitous with him, not to forſake them. Thus <hi>David, Pſal.</hi> 1198. <hi>Oh forſake me not utterly.</hi> He might well be ſolicitous in this matter, for he un<g ref="char:EOLhyphen"/>derſtood what it was to be forſaken of the Lord. They preſs hard with the Lord whatever he doth he would not leave them, nor forſake them. <hi>Jer.</hi> 14.9. <hi>Leave us not.</hi> And no wonder, there are ſuch moans, when the Lord may have ſeemed, to have forſaken them.</p>
+            <p n="4">4. If Gods forſaking be ſo ſore a judgement, it ſhould make us more cautelous, and wary leaſt we pull down this judgement on our heads. Men
+<pb n="15" facs="tcp:192320:11" rendition="simple:additions"/>ſhould be afraid of this heavieſt of judgements, more then the Child of whipping.</p>
+            <p n="5">5. Let Gods dear ones take heed of conclu<g ref="char:EOLhyphen"/>ding againſt themſelves, that they are under this judgement. They are readieſt to couclude a<g ref="char:EOLhyphen"/>gainſt themſelves, and yet really in the leaſt dan<g ref="char:EOLhyphen"/>ger. Thus we read, <hi>Iſa.</hi> 49.14. <hi>But Zion ſaid, the Lord hath forſaken me, and my Lord hath forgot<g ref="char:EOLhyphen"/>ten me.</hi> But why ſaid <hi>Zion ſo?</hi> it was from diffi<g ref="char:EOLhyphen"/>dence: as Saints do not forſake God as others do, <hi>Pſal</hi> 18.21. <hi>I have not wickedly departed from my God:</hi> ſo God will not forſake them as he for<g ref="char:EOLhyphen"/>ſakes others not utterly forſake them: His for<g ref="char:EOLhyphen"/>ſaking of his is but temporary, and partial.</p>
+            <p>But here a queſtion may be moved what is the difference betwixt a ſinner forſaken and a Saint forſaken? for the Lord doth not forſake both a<g ref="char:EOLhyphen"/>like. 1. When God forſakes his own, yet they cry after him, he withdraws himſelf from them ſometimes, yet ſo as that he draws their hearts after him as a mother may hide away from her Child, that it may ſeek and cry the mor earneſtly after her. 2 They retain good thoughts of him in his withdrawment, or abſence. As the Spouſe in the Canticles, ſhe calls him her beloved ſtill. As the faithful wife: ſhe retains good thoughts of her husband, and keeps up her re<g ref="char:EOLhyphen"/>ſpect, though he be gone from home but the wic<g ref="char:EOLhyphen"/>ked when the Lord forſakes them, harhour hard thoughts of him. Is this to ſerve the Lord, and walk in his wayes? what good have <hi>I</hi> got by all <hi>I</hi> have done? ſee how he hath ſerved me.</p>
+            <p n="3">
+               <pb n="16" facs="tcp:192320:12" rendition="simple:additions"/>
+3. They will ſeek him, till he return again, when the Lord forſakes others, the will ſees after vinities to make up the want of Gods preſence. The Aduſtreſs in her Huſbands abſence will ſeek after other leavers. The true Saint will be ſatis<g ref="char:EOLhyphen"/>fied in nothing elſe but the Lord till he return. Moreover there is a difference in Gods forſaking the ſinner and the Saint, when he forſakes the wicked <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in darkneſs: but when he withdraws from his own he leaves ſome light, whereby they ſee which way he is gone, he leaves ſome glimmering light, by which they may fol<g ref="char:EOLhyphen"/>low after him, and find him.</p>
+            <p>And again, when he leaves his own, yet his bowels are owards them, <hi>Jer.</hi> 31.20 <hi>My bow<g ref="char:EOLhyphen"/>els are troubled for him, I will ſurely have mercy upon him, ſaith the Lord.</hi> He hath an eye to<g ref="char:EOLhyphen"/>wards them for much good, in his forſaking them.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 2. Of <hi>Exhortation:</hi> 1. To thankful<g ref="char:EOLhyphen"/>neſs to God, or that he hath not yet forſaken us. Whatever he hath ſtript us off, he hath not yet ſtript us off himſelf, he hath not as yet forſaken us. He might have done it, and have done us no wrong; but he hath not yet done it.</p>
+            <p n="2">2. To do our utmoſt that he may not forſake us. And here there may be added Motives and Means.</p>
+            <p n="1">1. Conſider Gods lothneſs to forſake us. This is a thing that he is not deſirous of he doth not willingly afflict us with this fort of Affliction, or grieve us with this grievous ſtroak. God hath
+<pb n="17" facs="tcp:192320:12" rendition="simple:additions"/>ſhewed himſelf loth to depart from thoſe that have departed from him; but have warned them of his diſpleaſure, that they might ſtay him. It goes near Gods heart to forſake a People that have been near to him. Methinks I hear him ſaying thus, <hi>How ſhall I give thee up, Oh New-England!</hi> thence ſpeaking to warn us, of. our forſakings of him, and to be inſtructed, why? leaſt his Spirit depart from us, <hi>Jer.</hi> 6.8. <hi>Be thou inſtructed Oh Ieruſalem, leaſt my Soul depart from thee, leaſt I make thee deſolate, a land not inhabited.</hi> You may eaſily ſtay him, the matter is not ſo far gone, but you might yet ſtay him were we but as loth he ſhould forſake us, as he is to forſake us, he would never leave us. His gradual mo<g ref="char:EOLhyphen"/>tions from a people argue his lothneſs, and un<g ref="char:EOLhyphen"/>willingneſs to leave them.</p>
+            <p n="2">2. Conſider what the Lord is to us, or what relation he ſtands in to us, while he is with us. He is our friend, we have found him to be ſo, and a ſpecial friend too: men in the World are not willing to forego a Friend, a good Friend: he is as faithful, skilful, powerful, and tender heart<g ref="char:EOLhyphen"/>ed a Friend as ever a people had, he ſtuck by us when alſo we had been in a woe caſe, <hi>Pſal.</hi> 124.1. <hi>If it had not been the Lord, who was on our ſide may Iſrael now ſay.</hi> And had not the Lord been on our ſide, may <hi>New-England</hi> now ſay. He is a Father, and a tender-hearted Father, <hi>Iſai.</hi> 63.16, <hi>Doubtleſs thou art our Father.</hi> Can children
+<pb n="18" facs="tcp:192320:13" rendition="simple:additions"/>be willing their Father ſhould leave them? he is a Husband, <hi>Iſai.</hi> 54.5. <hi>For thy Maker is thy Huſ<g ref="char:EOLhyphen"/>band,</hi> a loving, careful, tender husband too; can the Wiſe be willing to part with her Husband? if the Lord forſake us, we are bereft of our friend, left friendleſs, he is all friends in one, none can be our friend, if he be not. If he leave us, we ſhall be as Orphans, for he is related as a Father, and how ſad is the ſtate of poor Orphans: and we ſhall be in a ſtate of Widow-hood, a very ſoli<g ref="char:EOLhyphen"/>tary, and ſorrowful ſtate. He is our guide, and our pilot; what will become of the blind if their guid leave them? and what will become of the Ship if the Pilot deſert it? thus the Lord is to his, and well may he ſay, as <hi>Mic.</hi> 6.3. <hi>Oh my Peo<g ref="char:EOLhyphen"/>ple what have I done? or wherein have I wearied thee, or given thee any cauſe to be weary of me.</hi>
+            </p>
+            <p n="3">3. Conſider there are ſhrewd ſigns of Gods intent to leave us, unleſs ſomewhat be done. If you enquire what? I Anſwer:</p>
+            <p n="1">1. The ſins for which God hath forſaken o<g ref="char:EOLhyphen"/>thers are rife amongſt us. The ſins for which God forſook the Jews, are our ſins.</p>
+            <p n="1">1. <hi>Horrid Pride,</hi> Hoſ. 5.5. <hi>The Pride of Iſrael doth teſtifie to his face.</hi> Pride in Parts, and pride of Hearts, pride in Apparel, and Veſtures, and in Geſtures, and in Looks, how lofty are their eyes! <hi>New-England</hi> is taken notice of abroad, for as proud a People, of a profeſſing people, as the World affords.
+<pb n="19" facs="tcp:192320:13" rendition="simple:additions"/>When a People are humble the Lord will ſay with them. If our immunities, which are Gods mercies, puffe us up, God will empty us: he will blaſt that to us that we are proud of.</p>
+            <p n="2">2. <hi>Deep and high Ingratitude.</hi> Do you thus requite the Lord? <hi>Deut.</hi> 32.6. So the Prophet <hi>Hoſea</hi> taxes them, <hi>Hoſ.</hi> 2, 8. <hi>God gave her Corn, and Wine, and Oyl, ſilver and Gold, but ſhe conſu<g ref="char:EOLhyphen"/>med them on Baal.</hi> We have been bleſt but hath God had the glory of our bleſſings.</p>
+            <p n="3">3. <hi>Oppreſſion. Amos</hi> 8.4. <hi>Ye that ſwallow up the needy.</hi> Theſe Jews were like the Fiſhes, the greater did devour the leſs. Some are like wild Beaſts, like Wolves that tear off the fleece, and eat the fleſh of the Flocks. There is more ju<g ref="char:EOLhyphen"/>ſtice to be found in hell, then amongſt ſome men on earth: for there is no innocent perſon op<g ref="char:EOLhyphen"/>preſſed there.</p>
+            <p n="4">4. <hi>Wearineſs of Gods Ordinances.</hi> Amos 8.5. <hi>When will the Sabbath be done?</hi> They that are weary of the ſervice of God, and the Ordinan<g ref="char:EOLhyphen"/>ces of God, they are weary of God. God in<g ref="char:EOLhyphen"/>deed hath fed us to the full, as to Ordinances: and we are glutted, and ſurfeited, and have loſt our eſteem.</p>
+            <p>
+               <pb n="20" facs="tcp:192320:14" rendition="simple:additions"/>
+When mens Commodities bare but a little price in a place, they will remove the market! if Go<g ref="char:EOLhyphen"/>ſpel Ordinances are but a cheap commodity, have loſt their price, and men are weary of them: God will let out his Vineyard to another People. If our mercies become our burdens, God will eaſe us of them.</p>
+            <p n="5">5. Couſenage in mens dealings, making the Ephah ſmall, and the Shêkel great, ſelling the re<g ref="char:EOLhyphen"/>fuſe of Wheat, <hi>Amos</hi> 8.5, 6. <hi>They pick out the beſt Grain for themſelves, and the refuſe is to ſell.</hi>
+            </p>
+            <p n="6">6. Idolatry, which is Spiritual Adultery, and is there nothing of this? chuſing of new Gods.</p>
+            <p n="7">7. Incorrigibleneſs, or oppoſition of a ſpirit of reformation. When God calls to a People to return, by repentance, but they will go on ſtill in their ſin: God calls to them by his judg<g ref="char:EOLhyphen"/>ments, and by his Rod; but they will not hear, as 'tis <hi>Ier.</hi> 5.3. <hi>Thou haſt ſtricken them, but they have not grieved; thou haſt conſumed them, but they have refuſed to receive Correction: they have made their faces harder than a Rock, they have re<g ref="char:EOLhyphen"/>fuſed to return.</hi> When it is thus with a People, God will pluck up and be gone; ſo <hi>Ier.</hi> 7.13, 14 <hi>Becauſe they would not hear, and would not anſwer the call of God, I will do to this houſe, as I did to Shiloh,</hi> why? what did the Lord do to Shiloh? ver. 12. <hi>Go to Shilch, and ſee what I did to it, for the wickedneſs of my People Iſrael.</hi> Go, and view it, and you will ſee what he did, he left tokens of
+<pb n="21" facs="tcp:192320:14" rendition="simple:additions"/>his wrath upon them, and forſook them.</p>
+            <p n="2">2. Another ſign of his intent to forſake us, is, in that he is dealing, with us as he is wont to deal with them that he is about to forſake. He takes away thoſe that are moſtly with him. He will take away his <hi>Moſes's</hi> thoſe that ſtand in the Gap, and binds his hands with their Prayers, when he is deſigned to pour out wrath upon a People: he will remove be lights, when he is about to darken a land. W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e men ſend away their Plate and Jewels and choice things; it in<g ref="char:EOLhyphen"/>timates their intention of removal</p>
+            <p n="3">3. Another ſign is our Luke warmneſs, and Indifferency in Religion: a uſual forerunner of its removal When a People care not for God, and the things of God, he hath leſt them in ſome meaſure, already, and if that Spirit abide he will not tarry long with them.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1 Of <hi>Direction.</hi> 1. Examine and hum<g ref="char:EOLhyphen"/>ble your ſelves, for all your departures from God, your forſakings of him; humble your ſelves for them, confeſſing with bitterneſs your evil therein bemoaning your ſelves before the Lord upon the account thereof. May the Lord hear his People, from <hi>Dan</hi> to <hi>Beerſheba</hi> bemoan<g ref="char:EOLhyphen"/>ing themſelves, <hi>Ephraim</hi> like, then the Lord will hear, and have mercy, and not leave us, for his Names ſake.</p>
+            <p n="2">2. Judge your ſelves worthy to be forſaken, becauſe of your forſaking of him. If you judge
+<pb n="22" facs="tcp:192320:15" rendition="simple:additions"/>your ſelves worthy to be forſaken, God will not judge you worthy to be forſaken, 1 <hi>Cor.</hi> 11.31.</p>
+            <p n="3">3. Pray the Lord not to forſake you, the Lord is ſometimes ſtaid with Prayers: Prayers have prevailed with his Majeſty often, and may do again.</p>
+            <p n="4">4. Forſake your ſins, whereby you have for<g ref="char:EOLhyphen"/>ſaken him. Nothing leſs then this will prevent this miſchief, coming upon us. If there be any, either Son or Daughter that will not leave their fins for God, God will leave ſuch.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>ERRATA.</hi> In the Preface to Mrs. <hi>Rowlandſons</hi> Narrative Page 1. Line 3. for <hi>Thurſday</hi> read <hi>Tueſday.</hi>
+            </p>
+            <pb facs="tcp:192320:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
